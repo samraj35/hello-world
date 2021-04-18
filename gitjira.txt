@@ -1,3 +1,4 @@
 working on git jira integration and this just update the comment section
 second try for comment to see on the issue
+third try for changing the status on the issue fromto do to InProgres
 
